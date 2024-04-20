@@ -84,25 +84,5 @@
     "id": 17,
     "start": "14:00",
     "duration": 30
-  },
-  { "id": 18, "start": "16:00", "duration": 30 },
-  { "id": 19, "start": "16:00", "duration": 30 },
-  { "id": 20, "start": "16:00", "duration": 30 },
-  { "id": 21, "start": "13:00", "duration": 45 },
-  { "id": 22, "start": "13:30", "duration": 30 },
-  { "id": 23, "start": "13:45", "duration": 15 },
-  { "id": 24, "start": "12:00", "duration": 120 },
-  { "id": 25, "start": "12:05", "duration": 15 },
-  { "id": 26, "start": "12:25", "duration": 15 },
-  { "id": 27, "start": "12:45", "duration": 15 },
-  { "id": 28, "start": "13:05", "duration": 15 },
-  { "id": 29, "start": "10:00", "duration": 60 },
-  { "id": 30, "start": "11:00", "duration": 60 },
-  { "id": 31, "start": "14:00", "duration": 120 },
-  { "id": 32, "start": "14:30", "duration": 30 },
-  { "id": 33, "start": "15:00", "duration": 30 },
-  { "id": 34, "start": "15:30", "duration": 30 },
-  { "id": 35, "start": "20:00", "duration": 60 }
-
-
+  }
 ]

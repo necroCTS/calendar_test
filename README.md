@@ -12,8 +12,8 @@ This is a simple React application for displaying an event calendar, built with 
 Clone the repository and install the dependencies:
 
 ```bash
-git clone https://yourrepository.git
-cd your-project-directory
+git clone https://github.com/necroCTS/calendar_test.git
+cd calendar_test
 npm install
 ```
 Running the Application
